@@ -1,2 +1,2 @@
 # Powershell_Scripts
-PowerShell scripts for AD, Azure, Exchange and Windows Server management
+PowerShell scripts for Active Directory, Azure, Exchange and Windows Server management
